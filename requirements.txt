@@ -2,7 +2,7 @@ deepface==0.0.99
 tensorflow==2.15.0
 keras==2.15.0
 opencv-python==4.8.1.78
-opencv-contrib-python==4.13.0.92
+opencv-contrib-python==4.6.0.66
 mtcnn==1.0.0
 retina-face==0.0.17
 numpy==1.23.5
